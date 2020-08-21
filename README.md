@@ -39,9 +39,6 @@ Text message exchange
 Mail exchange and search
 
 
-Alarm
-
-
 Event handle
 
 
