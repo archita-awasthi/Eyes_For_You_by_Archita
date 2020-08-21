@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Eyes For You by Archita.iml" filepath="$PROJECT_DIR$/Eyes For You by Archita.iml" group="Eyes For You by Archita" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Eyes For You by Archita/app" />
+    </modules>
+  </component>
+</project>
