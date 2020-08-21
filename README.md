@@ -14,17 +14,17 @@ day to day chores are simplified.
 
 
 
-![AppLogo](https://github.com/archita-awasthi/Eyes_For_You_by_Archita/blob/master/Screensots/AppLogo1.jpg)          
+![AppLogo](https://github.com/archita-awasthi/Eyes_For_You_by_Archita/blob/master/Screenshots/AppLogo1.jpg)          
 
 
-![screenshot_2017-12-19-15-44-33](https://github.com/archita-awasthi/Eyes_For_You_by_Archita/blob/master/Screensots/ArchitaRegistrationPage1.png)
+![screenshot_2017-12-19-15-44-33](https://github.com/archita-awasthi/Eyes_For_You_by_Archita/blob/master/Screenshots/ArchitaRegistrationPage1.png)
 
 
 
-![screenshot_2017-12-19-15-45-17](https://github.com/archita-awasthi/Eyes_For_You_by_Archita/blob/master/Screensots/Archita_homeScreen1.jpg)    
+![screenshot_2017-12-19-15-45-17](https://github.com/archita-awasthi/Eyes_For_You_by_Archita/blob/master/Screenshots/Archita_homeScreen1.jpg)    
 
 
-![screenshot_2017-12-19-15-45-39](https://github.com/archita-awasthi/Eyes_For_You_by_Archita/blob/master/Screensots/ArchitaMainMenuPage1.jpg)
+![screenshot_2017-12-19-15-45-39](https://github.com/archita-awasthi/Eyes_For_You_by_Archita/blob/master/Screenshots/ArchitaMainMenuPage1.jpg)
 
 
 
