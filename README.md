@@ -57,9 +57,6 @@ Contacts and call logs
 Checking weather
 
 
-Emergency,
-
-
 Making notes
 
 
